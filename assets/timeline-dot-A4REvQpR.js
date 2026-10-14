@@ -1,1 +1,0 @@
-import{R as e}from"./iframe-DP7DDnfB.js";import{o as i,aI as t,aJ as a,aK as m}from"./index-CKKzZn3u.js";const n=i({tagName:"ui-timeline",elementClass:t,react:e}),o=i({tagName:"ui-timeline-item",elementClass:a,react:e}),r=i({tagName:"ui-timeline-dot",elementClass:m,react:e});export{n as T,o as a,r as b};

@@ -1,0 +1,1 @@
+import{R as t}from"./iframe-lGCTaxPj.js";import{o as n,k as e}from"./index-C-Hz80Os.js";const p=n({tagName:"ui-input",elementClass:e,react:t,events:{onChange:"change",onInput:"input"}});export{p as I};

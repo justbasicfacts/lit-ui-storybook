@@ -1,0 +1,1 @@
+import{R as t}from"./iframe-lGCTaxPj.js";import{o as a,aa as e,ab as s}from"./index-C-Hz80Os.js";const o=a({tagName:"ui-list",elementClass:e,react:t}),r=a({tagName:"ui-list-item-text",elementClass:s,react:t});export{o as L,r as a};
