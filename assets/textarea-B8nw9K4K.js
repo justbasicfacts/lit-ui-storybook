@@ -1,1 +1,0 @@
-import{R as e}from"./iframe-BGBv2Rkz.js";import{o as a,G as t}from"./index-Ds1DpZoa.js";const r=a({tagName:"ui-textarea",elementClass:t,react:e,events:{onChange:"change",onInput:"input"}});export{r as T};

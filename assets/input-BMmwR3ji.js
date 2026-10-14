@@ -1,1 +1,0 @@
-import{R as t}from"./iframe-BGBv2Rkz.js";import{o as n,l as e}from"./index-Ds1DpZoa.js";const p=n({tagName:"ui-input",elementClass:e,react:t,events:{onChange:"change",onInput:"input"}});export{p as I};
