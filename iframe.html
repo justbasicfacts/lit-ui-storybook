@@ -558,7 +558,37 @@
   rel="stylesheet"
 />
 
-    <script type="module" crossorigin src="/lit-ui-storybook/assets/iframe-EaglJ-EY.js"></script>
+<style>
+  /*
+   * The canvas is the theme's, not Storybook's.
+   *
+   * A story paints its own block (ThemeScope), and the surface behind it used to be
+   * Storybook's white page plus the backgrounds addon's own light surface: with the
+   * centered layout, switching to dark gave a dark component sitting in a white
+   * page. Storybook's canvas wrappers are transparent here, so the background the
+   * theme decorator puts on the document shows through the whole page.
+   *
+   * html and body are deliberately NOT listed: the decorator sets the theme's
+   * background on them as an inline style, and an `!important` sheet rule would beat
+   * it (which is exactly how the first attempt at this ended up painting nothing).
+   */
+  #storybook-root,
+  .sb-show-main,
+  .sb-main-padded,
+  .sb-main-centered {
+    background-color: transparent !important;
+  }
+
+  /*
+   * Nothing else is needed for the centered layout: the story's own block sits
+   * centered on the themed canvas, and since the canvas carries the same surface
+   * there is no white strip either side. Forcing the root to full width here (as a
+   * first attempt did) defeats Storybook's centering and parks the component in the
+   * top-left corner instead.
+   */
+</style>
+
+    <script type="module" crossorigin src="/lit-ui-storybook/assets/iframe-CwpzPtni.js"></script>
     <link rel="modulepreload" crossorigin href="/lit-ui-storybook/assets/preload-helper-Bs85Y4nq.js">
   </head>
 
