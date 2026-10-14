@@ -1,1 +1,0 @@
-import{R as a}from"./iframe-7KbjxAZ3.js";import{o as e,_ as o,$ as t}from"./index-3LxRijqB.js";const n=e({tagName:"ui-radio",elementClass:o,react:a,events:{onChange:"change"}}),r=e({tagName:"ui-radio-group",elementClass:t,react:a,events:{onChange:"change"}});export{r as R,n as a};
