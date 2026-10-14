@@ -1,1 +1,0 @@
-import{R as t}from"./iframe-Bwx-W2wi.js";import{o as n,k as e}from"./index-BSSMaTAd.js";const p=n({tagName:"ui-input",elementClass:e,react:t,events:{onChange:"change",onInput:"input"}});export{p as I};

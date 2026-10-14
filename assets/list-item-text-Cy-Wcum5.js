@@ -1,1 +1,0 @@
-import{R as t}from"./iframe-Bwx-W2wi.js";import{o as e,a5 as a,a6 as s}from"./index-BSSMaTAd.js";const o=e({tagName:"ui-list",elementClass:a,react:t}),r=e({tagName:"ui-list-item-text",elementClass:s,react:t});export{o as L,r as a};
