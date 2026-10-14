@@ -1,1 +1,0 @@
-import{R as e}from"./iframe-lGCTaxPj.js";import{o as t,F as a}from"./index-C-Hz80Os.js";const s=t({tagName:"ui-table-sort-label",elementClass:a,react:e,events:{onSortRequest:"sort-request"}});export{s as T};

@@ -1,1 +1,0 @@
-import{R as e}from"./iframe-lGCTaxPj.js";import{o as t,ad as n,ae as a}from"./index-C-Hz80Os.js";const o=t({tagName:"ui-menu",elementClass:n,react:e,events:{onOpen:"open",onClose:"close",onSelect:"select"}}),c=t({tagName:"ui-menu-item",elementClass:a,react:e,events:{onItemSelect:"item-select"}});export{o as M,c as a};

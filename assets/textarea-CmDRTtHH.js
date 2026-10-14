@@ -1,1 +1,0 @@
-import{R as e}from"./iframe-lGCTaxPj.js";import{o as a,G as t}from"./index-C-Hz80Os.js";const r=a({tagName:"ui-textarea",elementClass:t,react:e,events:{onChange:"change",onInput:"input"}});export{r as T};

@@ -1,0 +1,1 @@
+import{R as a}from"./iframe-BGBv2Rkz.js";import{o as e,a6 as t,a7 as m}from"./index-Ds1DpZoa.js";const g=e({tagName:"ui-image-list",elementClass:t,react:a}),o=e({tagName:"ui-image-list-item",elementClass:m,react:a});export{g as I,o as a};
