@@ -1,1 +1,0 @@
-import{R as a}from"./iframe-CteECbaa.js";import{o as e,ay as t,az as s}from"./index-CJ7Kg3ag.js";const b=e({tagName:"ui-tabs",elementClass:t,react:a,events:{onChange:"change"}}),c=e({tagName:"ui-tab",elementClass:s,react:a,events:{onTabSelect:"tab-select"}});export{c as T,b as a};
