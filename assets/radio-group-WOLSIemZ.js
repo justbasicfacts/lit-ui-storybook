@@ -1,0 +1,1 @@
+import{R as a}from"./iframe-Bwx-W2wi.js";import{o as e,_ as o,$ as t}from"./index-BSSMaTAd.js";const n=e({tagName:"ui-radio",elementClass:o,react:a,events:{onChange:"change"}}),r=e({tagName:"ui-radio-group",elementClass:t,react:a,events:{onChange:"change"}});export{r as R,n as a};

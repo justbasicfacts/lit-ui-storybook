@@ -1,0 +1,1 @@
+import{R as e}from"./iframe-Bwx-W2wi.js";import{o as a,u as t}from"./index-BSSMaTAd.js";const r=a({tagName:"ui-textarea",elementClass:t,react:e,events:{onChange:"change",onInput:"input"}});export{r as T};

@@ -1,1 +1,0 @@
-import{R as e}from"./iframe-jabNMnJM.js";import{o as t,E as a}from"./index-BSSMaTAd.js";const s=t({tagName:"ui-table-sort-label",elementClass:a,react:e,events:{onSortRequest:"sort-request"}});export{s as T};
