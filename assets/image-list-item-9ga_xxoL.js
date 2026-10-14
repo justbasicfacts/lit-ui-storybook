@@ -1,1 +1,0 @@
-import{R as a}from"./iframe-CI8tjnlt.js";import{o as e,a7 as t,a8 as m}from"./index-C156ONKY.js";const g=e({tagName:"ui-image-list",elementClass:t,react:a}),o=e({tagName:"ui-image-list-item",elementClass:m,react:a});export{g as I,o as a};

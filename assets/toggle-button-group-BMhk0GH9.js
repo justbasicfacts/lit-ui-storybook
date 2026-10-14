@@ -1,1 +1,0 @@
-import{R as t}from"./iframe-CI8tjnlt.js";import{o as e,aD as o,aE as g}from"./index-C156ONKY.js";const l=e({tagName:"ui-toggle-button",elementClass:o,react:t,events:{onToggleSelect:"toggle-select"}}),s=e({tagName:"ui-toggle-button-group",elementClass:g,react:t,events:{onChange:"change"}});export{l as T,s as a};
