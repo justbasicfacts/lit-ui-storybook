@@ -1,1 +1,0 @@
-import{R as t}from"./iframe-D-jlcKf7.js";import{o,L as a,M as e}from"./index-A4XEOZPO.js";const m=o({tagName:"ui-bottom-navigation",elementClass:a,react:t,events:{onChange:"change"}}),s=o({tagName:"ui-bottom-navigation-action",elementClass:e,react:t,events:{onBottomNavSelect:"bottom-nav-select"}});export{m as B,s as a};

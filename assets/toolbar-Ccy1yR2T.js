@@ -1,1 +1,0 @@
-import{R as a}from"./iframe-D-jlcKf7.js";import{o,X as r,Y as t}from"./index-A4XEOZPO.js";const p=o({tagName:"ui-app-bar",elementClass:r,react:a}),m=o({tagName:"ui-toolbar",elementClass:t,react:a});export{p as A,m as T};

@@ -1,1 +1,0 @@
-import{R as e}from"./iframe-D-jlcKf7.js";import{o as a,as as i,at as t}from"./index-A4XEOZPO.js";const l=a({tagName:"ui-speed-dial",elementClass:i,react:e,events:{onOpen:"open",onClose:"close"}}),n=a({tagName:"ui-speed-dial-action",elementClass:t,react:e,events:{onSpeedDialActionClick:"speed-dial-action-click"}});export{l as S,n as a};

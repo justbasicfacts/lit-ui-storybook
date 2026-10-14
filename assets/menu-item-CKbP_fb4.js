@@ -1,0 +1,1 @@
+import{R as e}from"./iframe-CI8tjnlt.js";import{o as t,ae as n,af as a}from"./index-C156ONKY.js";const o=t({tagName:"ui-menu",elementClass:n,react:e,events:{onOpen:"open",onClose:"close",onSelect:"select"}}),c=t({tagName:"ui-menu-item",elementClass:a,react:e,events:{onItemSelect:"item-select"}});export{o as M,c as a};
